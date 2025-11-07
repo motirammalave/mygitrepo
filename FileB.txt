@@ -1,0 +1,4 @@
+1.	Using GitHub’s web interface, create a new file named FileB and commit it to the repository.
+2.	Pull the latest changes from the remote repository into your local environment to ensure synchronization.
+3.	View the updated commit history to confirm that the newly added file has been integrated into the local repository.
+
