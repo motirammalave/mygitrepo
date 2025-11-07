@@ -1,0 +1,5 @@
+1.Create a new project directory named mygitrepo in your local system.
+   2.Initialize the directory as a Git repository using the appropriate Git command.
+  3.Create a file titled FileA and insert any sample text content into it.
+  4.Stage the newly created file and perform the initial commit to the repository.
+  5.Display the commit log to validate that the initial commit has been recorded successfully.
